@@ -1,7 +1,7 @@
 </div>
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1045500218541613168/1061408382197694495/title.png" alt="titulo PokeDex!" />
+    <img src="https://cdn.discordapp.com/attachments/1062571674286960680/1062591616797392946/pokedexgithub.png" alt="titulo PokeDex!" />
     <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="logotipo pokebola" />
 
 <br>
@@ -60,5 +60,5 @@
 <hr>
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1045500218541613168/1061408382197694495/title.png" alt="titulo PokeDex!" />
+    <img src="https://cdn.discordapp.com/attachments/1062571674286960680/1062591616797392946/pokedexgithub.png" alt="titulo PokeDex!" />
    
