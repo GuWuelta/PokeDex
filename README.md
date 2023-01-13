@@ -2,8 +2,8 @@
 
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1062571674286960680/1062591616797392946/pokedexgithub.png" alt="titulo PokeDex!" />
-    <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="logotipo pokebola" />
-
+    <br>
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/03/gifs-da-pokedex-de-pokemon-1.gif" alt="Imagem de uma Pokedex"/>
 <br>
 
 <h1> <img width="3%" src="https://media.discordapp.net/attachments/1045500218541613168/1061408381547585696/pokemon-icon.png" alt="logotipo pokebola"/> Sobre </h1>
@@ -55,10 +55,12 @@
 <img src="https://avatars.githubusercontent.com/u/101107981?v=4" width="160px;" alt="Foto do Gustavo Wuelta no GitHub"/><br>
 </div>
 
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
-<hr>
+<br>
+<br>
 
 <p align="center">
+    <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Imagem de uma Pokedex"/>
     <img src="https://cdn.discordapp.com/attachments/1062571674286960680/1062591616797392946/pokedexgithub.png" alt="titulo PokeDex!" />
+    
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
    
