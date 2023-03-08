@@ -63,4 +63,3 @@
     <img src="https://cdn.discordapp.com/attachments/1062571674286960680/1062591616797392946/pokedexgithub.png" alt="titulo PokeDex!" />
     
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-   
